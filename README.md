@@ -24,7 +24,7 @@ BTW don't mess with the `storage.json` files they are, well, used for storing En
 3. Test it! hopefully it will work! If it doesn't, open an issue (screenshots always help!).
 
 
-It works kinda weird, but it works. I just wanted to get this workin, so more/better features will come later.
+It works kinda weird, but it works. I just wanted to get this working, so more/better features will come later.
 
 ## Possible Updates?
 - [ ] Add support for addressing individual Ender Chest slots.
