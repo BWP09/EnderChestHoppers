@@ -1,0 +1,7 @@
+name: EnderChestHoppers
+version: '${project.version}'
+main: me.bwp09.enderchesthoppers.EnderChestHoppers
+api-version: '1.20'
+authors: [ BWP09 ]
+description: Allows hoppers to interact with ender chests
+website: http://bwp-dev.com
